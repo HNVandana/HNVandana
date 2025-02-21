@@ -57,14 +57,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
 
-### 🏆 Certifications:
-- ✅ [ISTQB Foundation Level (If applicable)]
-- ✅ [Selenium WebDriver with Java (If applicable)]
-- ✅ [API Testing with Postman (If applicable)]
-
----
 
 ### 📌 Projects & Contributions:
 - 🚀 **Automated Testing Framework for Web Applications**
